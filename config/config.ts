@@ -58,16 +58,6 @@ export const config = {
           artstation: "https://artstation.com/remkoluyckx",
         },
       },
-      {
-        name: "Philip Milanov",
-        role: "Lead Animator",
-        image: "/team/philip.jpg",
-        bio: "Animation expert specializing in creating fluid, lifelike character movements.",
-        socials: {
-          linkedin: "https://www.linkedin.com/in/philip-milanov",
-          artstation: "https://www.artstation.com/philip_milanov",
-        },
-      },
     ],
     openPositions: [
       {
